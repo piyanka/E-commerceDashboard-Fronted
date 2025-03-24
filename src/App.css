@@ -12,7 +12,7 @@
 .nav-ul {
   padding: 5px;
   margin: 0px;
-  background-color: skyblue;
+  background-color: rgb(119, 170, 233);
 }
 
 
@@ -44,7 +44,7 @@
   width: 490px;
   margin: 23px;
   padding: 13px;
-  border: 2px solid skyblue;
+  border: 2px solid rgb(119, 170, 233);
 }
 
 .Products-List {
@@ -59,7 +59,7 @@
 .Products-List ul li {
   display: inline-block;
   margin: 0px;
-  border: 1px solid skyblue;
+  border: 1px solid rgb(119, 170, 233);
   padding: 14px;
   width: 150px;
 }
@@ -75,7 +75,7 @@
   margin: 25px;
   padding: 10px;
   width: 308px;
-  border: 2px solid skyblue;
+  border: 2px solid rgb(119, 170, 233);
 }
 
 .invalid-input {
@@ -90,7 +90,7 @@
   border: 2px solid black;
   width: 130px;
   padding: 10px;
-  background-color: skyblue;
+  background-color: rgb(119, 170, 233);
   cursor: pointer;
 }
 
@@ -99,7 +99,7 @@
   bottom: 0;
   text-align: center;
   width: 100%;
-  background-color: skyblue;
+  background-color: rgb(119, 170, 233);
 }
 
 @media (prefers-reduced-motion: no-preference) {
