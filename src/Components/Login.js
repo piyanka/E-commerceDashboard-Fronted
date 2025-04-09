@@ -10,7 +10,7 @@ const Login = () => {
         if (auth){
             navigate('/');
         }
-    }, []);
+    }, [navigate]);
 
     const handleLogin = async () => {
         console.log("email,password", email, password);

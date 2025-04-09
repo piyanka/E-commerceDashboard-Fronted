@@ -10,9 +10,7 @@ const UpdateProduct = () => {
     const params = useParams();
     const Navigate = useNavigate();
 
-    useEffect(()=>{
-        getProductDetails();
-    }, []);
+    
 
     const getProductDetails= async()=>{
         let result = await fetch(`http://localhost:5000/product/${params.id}`, {
@@ -29,6 +27,9 @@ const UpdateProduct = () => {
 
     }
    
+    useEffect(()=>{
+        getProductDetails();
+    });
 
     const handleUpdateProduct = async () => {
         console.log(name, price, category, company )
