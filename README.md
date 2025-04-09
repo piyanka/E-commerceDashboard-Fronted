@@ -2,7 +2,7 @@
 
 Frontend for a secure, full-stack **E-Commerce Dashboard** built with React.js and TailwindCSS. This dashboard connects to a Node.js + Express + MongoDB backend and includes features like user authentication, product management, and real-time UI updates.
 
-![Screenshot 2025-04-09 140006](https://github.com/user-attachments/assets/b3bb0647-6835-40f8-86c9-1564f9d2b8ba)
+![Screenshot 2025-04-09 140006](https://github.com/user-attachments/assets/16dc5203-95f2-499b-aa49-cfbdd1a3472a)
 
 
 ## Tech Stack
