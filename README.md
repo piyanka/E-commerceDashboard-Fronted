@@ -1,11 +1,11 @@
-# E-Commerce Dashboard (Frontend)
+# **E-Commerce Dashboard (Frontend)**
 
 Frontend for a secure, full-stack **E-Commerce Dashboard** built with React.js and TailwindCSS. This dashboard connects to a Node.js + Express + MongoDB backend and includes features like user authentication, product management, and real-time UI updates.
 
 ![Screenshot 2025-04-09 140006](https://github.com/user-attachments/assets/16dc5203-95f2-499b-aa49-cfbdd1a3472a)
 
 
-## Tech Stack
+## **Tech Stack**
 
 - **Frontend:** React.js, TailwindCSS
 - **Backend:** Node.js, Express.js
@@ -13,7 +13,7 @@ Frontend for a secure, full-stack **E-Commerce Dashboard** built with React.js a
 - **Authentication:** JWT (JSON Web Tokens)
 - **API Testing:** Postman
 
-## ✨ Features
+## ✨ **Features**
 
 - JWT-based user authentication
 - CRUD operations for products, users, and orders
@@ -21,7 +21,7 @@ Frontend for a secure, full-stack **E-Commerce Dashboard** built with React.js a
 - Integrated with a RESTful backend API
 - Tested all API routes with Postman
 
-## Getting Started
+## **Getting Started**
 
 ### 1. Clone the repo
 
@@ -29,12 +29,12 @@ Frontend for a secure, full-stack **E-Commerce Dashboard** built with React.js a
 git clone https://github.com/your-username/ecommerce-dashboard-frontend.git
 cd ecommerce-dashboard-frontend
 ```
-## 2. Install Dependencies
+### 2. Install Dependencies
 ```bash
 npm install
 ```
-## 3. Start the Frontend Server
+### 3. Start the Frontend Server
 ```bash
 npm start
 ```
-
+### **Explore the [Backend Base](https://github.com/piyanka/E-commerceDashboard-Backend?tab=readme-ov-file#e-commerce-dashboard-backend)**
